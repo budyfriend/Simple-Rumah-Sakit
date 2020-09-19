@@ -1,0 +1,38 @@
+{
+  "karyawan" : {
+    "budiono" : {
+      "active" : true,
+      "alamat" : "Serang Banten",
+      "jk" : "Laki-laki",
+      "nama_lengkap" : "Budiono",
+      "telepon" : "009172371",
+      "tempat_lahir" : "Serang",
+      "tgl_lahir" : "22-September-2016",
+      "username" : "budiono"
+    }
+  },
+  "login" : {
+    "admin" : {
+      "active" : true,
+      "level" : "admin",
+      "password" : "123",
+      "username" : "admin"
+    },
+    "budiono" : {
+      "active" : true,
+      "level" : "karyawan",
+      "password" : "123",
+      "username" : "budiono"
+    }
+  },
+  "pasien" : {
+    "kiki" : {
+      "alamat" : "Serang",
+      "jk" : "Perempuan",
+      "nama_lengkap" : "kiki",
+      "telepon" : "091237102",
+      "tempat_lahir" : "Serang",
+      "tgl_lahir" : "12-September-2020"
+    }
+  }
+}

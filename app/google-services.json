@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602027082756",
+    "firebase_url": "https://pemesanan-galon-8367b.firebaseio.com",
+    "project_id": "pemesanan-galon-8367b",
+    "storage_bucket": "pemesanan-galon-8367b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602027082756:android:fdb3dff9465fed6b6d2151",
+        "android_client_info": {
+          "package_name": "com.budyfriend.rumahsakit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602027082756-ebftvitruagttju9rq0f7reuhr0obu7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budyfriend.rumahsakit",
+            "certificate_hash": "7334d172904a30f168735f7a81a04b6ba381a33e"
+          }
+        },
+        {
+          "client_id": "602027082756-qdvf942q6utcg17fbqank58mol8ck75s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0sMba_TQ2QemV0oqrIedjEgrHZj_ESA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602027082756-qdvf942q6utcg17fbqank58mol8ck75s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
